@@ -34,7 +34,7 @@ The purpose of this analysis is to help the school district determine if there i
   * **Scores by school spending**
     * The removal of the 9th grade results has no affect on the scores by school spending.
 
-  * **Scores by school size
+  * **Scores by school size**
     * The removal of the 9th grade results has no affect on the scores by school size.
 
   * **Scores by school type**
