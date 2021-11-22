@@ -14,7 +14,7 @@ The purpose of this analysis is to help the school district determine if there i
   * Overall, the impact of removing the 9th grade results were minimal. The Average Math Score dropped one-tenth of a percent while the Average Reading Score remained unaffected. The % Passing Math decreased by two-tenths of a percent while the % Passing Reading decreased by one-tenth of a percent. The % Overall Passing decreased by three-tenths of a percent.
 
 ### How is the school summary affected?
-  * **Original School Summary (Top 5)
+  * **Original School Summary (Top 5)**
   
   * ![Original School Summary](https://github.com/mjkleineck/School_District_Analysis/blob/main/Resources/School_Summary_Original.png)
   
